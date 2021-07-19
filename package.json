@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/Chiquis2005/gs-transcript/issues"
   },
-  "homepage": "https://github.com/Chiquis2005/gs-transcript#readme"
+  "homepage": "https://github.com/Chiquis2005/gs-transcript#readme",
+  "devDependencies": {
+    "eslint": "^7.31.0"
+  },
+  "dependencies": {
+    "node-superfetch": "^0.2.3"
+  }
 }

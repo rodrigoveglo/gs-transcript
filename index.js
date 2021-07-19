@@ -1,8 +1,7 @@
-const {transcripts} = ('../../src/transcript.js')
+const transcript = require('./src/transcript.js')
 
 module.exports = {
 
-    transcripts,
-
+    transcript
 
 }
