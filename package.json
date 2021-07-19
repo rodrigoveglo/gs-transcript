@@ -1,0 +1,19 @@
+{
+  "name": "gs-transcript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chiquis2005/gs-transcript.git"
+  },
+  "author": "!el_wtf89",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chiquis2005/gs-transcript/issues"
+  },
+  "homepage": "https://github.com/Chiquis2005/gs-transcript#readme"
+}
