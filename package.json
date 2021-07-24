@@ -1,25 +1,50 @@
 {
-  "name": "gs-transcript",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "_from": "git+https://github.com/Chiquis2005/gs-transcript.git",
+  "_id": "gs-transcript@1.0.0",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/gs-transcript",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "https://github.com/Chiquis2005/gs-transcript.git",
+    "rawSpec": "https://github.com/Chiquis2005/gs-transcript.git",
+    "saveSpec": "git+https://github.com/Chiquis2005/gs-transcript.git",
+    "fetchSpec": "https://github.com/Chiquis2005/gs-transcript.git",
+    "gitCommittish": null
   },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "git+https://github.com/Chiquis2005/gs-transcript.git#705985f9c561096e7f81b539a9010ed472572381",
+  "_spec": "https://github.com/Chiquis2005/gs-transcript.git",
+  "_where": "C:\\Users\\Chatp\\OneDrive\\Escritorio\\todo\\Greenshield\\Bot\\Api\\Bot",
+  "author": {
+    "name": "!el_wtf89"
+  },
+  "bugs": {
+    "url": "https://github.com/Chiquis2005/gs-transcript/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "node-superfetch": "^0.2.3"
+  },
+  "deprecated": false,
+  "description": "",
+  "devDependencies": {
+    "eslint": "^7.31.0"
+  },
+  "homepage": "https://github.com/Chiquis2005/gs-transcript#readme",
+  "license": "ISC",
+  "main": "index.js",
+  "name": "gs-transcript",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Chiquis2005/gs-transcript.git"
   },
-  "author": "!el_wtf89",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Chiquis2005/gs-transcript/issues"
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "homepage": "https://github.com/Chiquis2005/gs-transcript#readme",
-  "devDependencies": {
-    "eslint": "^7.31.0"
-  },
-  "dependencies": {
-    "node-superfetch": "^0.2.3"
-  }
+  "version": "1.0.0"
 }
