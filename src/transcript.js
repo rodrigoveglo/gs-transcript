@@ -102,7 +102,7 @@ class transcript {
       },
     };
 
-    let { body } = await post("http://localhost:3000/api/gs-transcript").set("token", this.token).send(
+    let { body } = await post("http://apis.greenshieldbot.tk/api/gs-transcript").set("token", this.token).send(
       messagesss
     );
     
